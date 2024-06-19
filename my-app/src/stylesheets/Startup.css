@@ -1,0 +1,10 @@
+#startUpContainer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #a00471;
+}
+#startUp{
+    text-align: center;
+}
