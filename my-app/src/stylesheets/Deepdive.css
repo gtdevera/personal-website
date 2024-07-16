@@ -1,0 +1,22 @@
+#deepdiveBackground{
+    background-color: rgb(95, 49, 49);
+}
+
+#ddIntro{
+    color:aliceblue;
+    margin:0;
+    margin-top: 3%;
+}
+
+.oleo-script-regular {
+    font-family: "Oleo Script", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.oleo-script-bold {
+    font-family: "Oleo Script", system-ui;
+    font-weight: 700;
+    font-style: normal;
+}
+  
