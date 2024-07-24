@@ -19,4 +19,14 @@
     font-weight: 700;
     font-style: normal;
 }
-  
+
+#topFour{
+    display:grid;
+}
+.filmLeft{
+    display:flex;
+}
+.filmRight{
+    display:flex;
+    justify-content: right;
+}
