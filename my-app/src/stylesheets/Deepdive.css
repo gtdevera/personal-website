@@ -23,10 +23,21 @@
 #topFour{
     display:grid;
 }
+.topFourPoster{
+    max-width: 20%;
+    height:auto;
+}
+
 .filmLeft{
     display:flex;
+    margin-bottom: 5%;
 }
 .filmRight{
     display:flex;
     justify-content: right;
+    margin-bottom: 5%;
+}
+.filmText{
+    display:flex;
+    flex-direction: column;
 }
