@@ -1,9 +1,9 @@
 import * as React from 'react';
 import { Typography } from '@mui/material';
-import Athena from '../images/Athena.jpg';
-import GoodWillHunting from '../images/GoodWillHunting.jpg';
-import PortraitOfALadyOnFire from '../images/PortraitOfALadyOnFire.jpg';
-import TheGrandBudapestHotel from '../images/TheGrandBudapestHotel.jpg';
+import Athena from '../images/DeepPhotos/Athena.jpg';
+import GoodWillHunting from '../images/DeepPhotos/GoodWillHunting.jpg';
+import PortraitOfALadyOnFire from '../images/DeepPhotos/PortraitOfALadyOnFire.jpg';
+import TheGrandBudapestHotel from '../images/DeepPhotos/TheGrandBudapestHotel.jpg';
 
 import '../stylesheets/Deepdive.css'
 

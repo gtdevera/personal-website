@@ -1,0 +1,18 @@
+
+.projectBackground{
+    background-color: rgb(172, 138, 136);
+}
+
+.projectPaper{
+    background-color: greenyellow;
+    display:flex;
+    margin-left: 5vh;
+    margin-top: 5vh;
+}
+
+.projectDescription{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 25;
+    letter-spacing: .2rem;
+}

@@ -3,6 +3,7 @@ import HomePage from './components/Homepage';
 import About from './components/About';
 import ResponsiveAppBar from './components/Topbar';
 import Deepdive from './components/Deepdive';
+import Projects from './components/Projects';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
         <Route path="/" element = {<HomePage/>} />
         <Route path="/about" element = {<About/>} />
         <Route path="/deepdive" element={<Deepdive/>}/>
+        <Route path="/projects" element={<Projects/>}/>
       </Routes>
     </BrowserRouter>
   );
