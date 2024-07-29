@@ -1,4 +1,4 @@
-import { Tooltip, Typography } from "@mui/material"
+import {Typography } from "@mui/material"
 import '../stylesheets/About.css'
 
 export default function About() {
@@ -23,33 +23,21 @@ export default function About() {
                     variant="h6"
                     component="a"
                     maxWidth="xl"
-                    sx={{
-                    display: { xs: 'none', md: 'flex' , justifyContent: "center"},
-                    fontFamily: '"Lucida Grande", sans-serif',
-                    fontSize:30,
-                    letterSpacing: '.2rem',
-                    }}
+                    className="beginText"
                 >
-                    My name is Gorgonzola and I'm making this website as a way of showcasing I can make things
-                    and be able to code it without having the intention of fulfilling a school project.
-                    There's also more things I would like to display and I've got inspiration from the few 
-                    personal websites of what I'm aiming for in terms of quality and content. 
+                    Hello! First and foremost I'm Gio and this is my website to basically display information about me 
+                    that's both helpful and unhelpful in varying quantities. 
                 </Typography>
+                <br/>
                 <br/>
                 <Typography
                     variant="h6"
                     component="a"
                     maxWidth="xl"
-                    sx={{
-                    display: { xs: 'none', md: 'flex' , justifyContent: "center"},
-                    fontFamily: '"Lucida Grande", sans-serif',
-                    fontSize:30,
-                    letterSpacing: '.2rem',
-                    }}
+                    className="beginText"
                 >
-                    Anyways I want to yap more just to see how the text fits on the page.
-                    I'm trying to figure out how to make spaces in between these paragraphs beacuse I 
-                    don't want it just be one massive paragraph lol
+                    Hopefully this looks good when the final product comes out and I get to put more stuff here that isn't
+                    just random words because this has to be meaningful text at the end product
                 </Typography>
 
             </div>
