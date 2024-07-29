@@ -25,8 +25,9 @@ export default function About() {
                     maxWidth="xl"
                     className="beginText"
                 >
-                    Hello! First and foremost I'm Gio and this is my website to basically display information about me 
+                    This is my website to basically display information about me 
                     that's both helpful and unhelpful in varying quantities. 
+                    
                 </Typography>
                 <br/>
                 <br/>
