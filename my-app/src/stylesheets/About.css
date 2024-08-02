@@ -11,6 +11,18 @@
 .beginText{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
-    font-size: 25;
     letter-spacing: .2rem;
+    word-spacing: .1rem;
+}
+
+.aboutPhoto{
+    border-color: #a00471;
+    max-width: 30%;
+    margin-left: 1%;
+    margin-right: 1%;
+    height:auto;
+}
+
+#meBox{
+    display:flex;
 }
